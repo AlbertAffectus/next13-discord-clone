@@ -29,7 +29,7 @@ Features:
 ### Cloning the repository
 
 ```shell
-git clone https://github.com/AlbertCoding42/next13-discord-clone.git
+git clone https://github.com/AlbertAffectus/next13-discord-clone.git
 ```
 
 ### Install packages
